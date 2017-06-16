@@ -1,0 +1,28 @@
+* {
+	font-family: "Indie Flower"
+}
+
+p {
+	color:lightgreen;
+}
+body {background-color:black; 
+
+}
+
+
+h1{color:lightgreen;
+
+}
+
+
+#startbild {
+	height: 80vh;
+}
+#contact{
+	height: 80vh;
+}
+
+main {
+	margin-left: 10%;
+	margin-right: 10%,
+}
